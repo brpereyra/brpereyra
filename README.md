@@ -1,1 +1,1 @@
-# Hi i am Bryan Pereyra 
+# Hi, i'm Bryan Pereyra 
