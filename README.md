@@ -19,15 +19,13 @@ Actualmente estoy afinando y potenciando estas iniciativas:
 
 ### 🧰 Las herramientas de mi garage
 
-Selecciono mi stack buscando el equilibrio perfecto entre potencia, control y rendimiento:
+Para lograr un rendimiento de alto nivel, confío en este stack tecnológico:
 
-| Capa | Tecnologías |
-| :--- | :--- |
-| **Arquitectura & Mobile** | Node.js, Go, TypeScript, Angular, **Flutter**, Astro |
-| **Transmisión & Tiempo Real** | Socket.io, RabbitMQ, Redis |
-| **Motores de Datos** | **PostgreSQL**, MongoDB (Mongoose), Typesense |
-| **Bajo el capó (Ops)** | Docker, Nginx, PM2, AWS S3 |
-| **IA Aplicada** | Implementación de modelos con Gemini, DeepSeek y Ollama |
+**Backend & Systems** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Frontend & Mobile** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+**Infrastructure & Ops** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -39,11 +37,5 @@ Cuando estoy frente a la pantalla, mi objetivo es el **ajuste fino**. Me mueve e
 
 ### 📫 Hablemos de ingeniería
 
-* **LinkedIn:** [linkedin.com/in/brpereyra](https://www.linkedin.com/in/brpereyra/)
-* **Email:** [brp2196@gmail.com](mailto:brp2196@gmail.com)
-
----
-
-### 📈 Mi actividad en el taller
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brp2196&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brp2196&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brpereyra/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brp2196@gmail.com)
