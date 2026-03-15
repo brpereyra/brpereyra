@@ -13,7 +13,7 @@ Actualmente estoy afinando y potenciando estas iniciativas:
 * 🧪 **[Rext Labs](https://rextlabs.com)**: Mi casa matriz de experimentación. Es el núcleo donde investigo y desarrollo soluciones innovadoras y herramientas de optimización para el ecosistema tech.
 * 🛠️ **[Rext](https://getrext.com)**: Mi extensión para VS Code diseñada para eliminar fricciones en el flujo de trabajo. Porque nuestras herramientas deben ser tan precisas como un juego de llaves profesionales.
 * 🚀 **[Chat2](https://chattwo.app)**: Un ecosistema de mensajería de alto rendimiento donde la velocidad y la escalabilidad son la prioridad absoluta. Desarrollado con **Node.js, Angular y RabbitMQ**.
-* 🔗 **[Linkea](https://github.com/brp2196/linkea)**: Una herramienta diseñada para optimizar la gestión de servicios y enlaces, buscando siempre la ruta más corta y funcional para el usuario.
+* 🔗 **[Linkea](https://linkea.us)**: Una herramienta diseñada para optimizar la gestión de servicios y enlaces, buscando siempre la ruta más corta y funcional para el usuario.
 
 ---
 
